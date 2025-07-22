@@ -1,2 +1,2 @@
-# Estudo_Rapido_JavaScript
-Estudo de JavaScript - comandos básicos
+# Estudo Rapido de JavaScript
+Estudo rapido de JavaScript - comandos básicos
